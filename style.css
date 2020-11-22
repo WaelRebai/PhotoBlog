@@ -1,0 +1,25 @@
+header{
+    font-family: 'Roboto Slab', serif;
+}
+h3{
+    padding-left: 25px;
+}
+hr{
+    width: 30%;
+    float: left;
+}
+img{
+    width: 435px;
+    height: 280px;
+    margin: 2.42%;
+    float: left;
+    box-shadow: -5px 5px 12px rgba(83, 83, 77, 0.9);
+    object-fit: cover;
+}
+.next{
+    margin-left: 1430px;
+}
+.text{
+    text-align: left;
+    font-size: 17px;
+}
